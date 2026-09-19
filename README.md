@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi 👋, I'm Guilherme Cunha</h1>
+  <h1>Hi 👋, I'm Guilherme</h1>
   <p><strong>Data Science & Artificial Intelligence Student @ FGV EMAp</strong></p>
 
   <p>
@@ -36,11 +36,6 @@
 ---
 
 ### 📊 GitHub Activity
-
-<div align="center">
-  <img height="165" src="https://stats.virag.co/api?username=carvguilherme8&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://stats.virag.co/api/top-langs/?username=carvguilherme8&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=carvguilherme8&theme=tokyonight" alt="GitHub Streak" />
