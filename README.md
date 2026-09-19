@@ -38,10 +38,10 @@
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=carvguilherme8&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carvguilherme8&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+  <img height="165" src="https://stats.virag.co/api?username=carvguilherme8&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://stats.virag.co/api/top-langs/?username=carvguilherme8&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carvguilherme8&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=carvguilherme8&theme=tokyonight" alt="GitHub Streak" />
 </div>
